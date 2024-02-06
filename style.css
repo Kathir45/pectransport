@@ -1,0 +1,46 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    
+    
+}
+.pec-logo{
+    width: 40px;
+    height: 40px;
+}
+.navbar{
+    background-color: #ffdc00;
+}
+.slidebar-div{
+    padding: 20px 40px;
+}
+.nav-ul-div{
+    display: flex;
+    width: 100%;
+}
+
+.nav-ul-div ul li{
+    justify-content: center;
+}
+.transport{
+    color: purple;
+    padding-left: 30px;
+    padding-top: 20px;
+}
+.trans-para{
+    display: block;
+    
+    margin: 10px;
+}
+.trans-para div{
+    border: 1px solid whitesmoke;
+    padding: 10px;
+    border-radius: 10px;
+    box-shadow: 5px 2px 1px 0;
+}
+
+footer{
+    width: 100vw;
+    text-align: center;
+}
